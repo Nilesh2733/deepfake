@@ -1,4 +1,4 @@
-# deepfake
+# Deepfake for Sapienza's Vision and perception course
 A python simple code to create a CNN model that detects, if the provided image is fake or real.
 
 This repo contains the python notebook "Deepfake_detection" which includes data loading from kaggle and training the model using tensorflow.
